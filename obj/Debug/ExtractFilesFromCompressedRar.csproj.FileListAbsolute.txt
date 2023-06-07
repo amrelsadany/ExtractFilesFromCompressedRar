@@ -1,0 +1,14 @@
+D:\Projects\ExtractFilesFromCompressedRar\bin\Debug\ExtractFilesFromCompressedRar.exe.config
+D:\Projects\ExtractFilesFromCompressedRar\bin\Debug\ExtractFilesFromCompressedRar.exe
+D:\Projects\ExtractFilesFromCompressedRar\bin\Debug\ExtractFilesFromCompressedRar.pdb
+D:\Projects\ExtractFilesFromCompressedRar\bin\Debug\Aspose.Zip.dll
+D:\Projects\ExtractFilesFromCompressedRar\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\ExtractFilesFromCompressedRar\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Projects\ExtractFilesFromCompressedRar\bin\Debug\Aspose.Zip.xml
+D:\Projects\ExtractFilesFromCompressedRar\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\ExtractFilesFromCompressedRar\obj\Debug\ExtractFilesFromCompressedRar.csproj.AssemblyReference.cache
+D:\Projects\ExtractFilesFromCompressedRar\obj\Debug\ExtractFilesFromCompressedRar.csproj.SuggestedBindingRedirects.cache
+D:\Projects\ExtractFilesFromCompressedRar\obj\Debug\ExtractFilesFromCompressedRar.csproj.CoreCompileInputs.cache
+D:\Projects\ExtractFilesFromCompressedRar\obj\Debug\ExtractFilesFromCompressedRar.csproj.CopyComplete
+D:\Projects\ExtractFilesFromCompressedRar\obj\Debug\ExtractFilesFromCompressedRar.exe
+D:\Projects\ExtractFilesFromCompressedRar\obj\Debug\ExtractFilesFromCompressedRar.pdb
